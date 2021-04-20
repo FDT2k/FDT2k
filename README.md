@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FDT2k
 - 👀 I’m interested in nodes / deno microservices
 - 🌱 I’m currently learning a lot of things all the time
-- 💞️ I’m looking to collaborate on microservices architectures, functional programing, extreme modularity
+- 💞️ I’m looking to collaborate on microservices architectures, functional programing, extreme modularity, light infrastructure
 - 📫 How to reach me : 
 
 <!---
