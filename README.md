@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FDT2k
-- 👀 I’m interested in nodes / deno microservices
+- 👀 I’m interested in Laravel and the TALL Stack
 - 🌱 I’m currently learning a lot of things all the time
-- 💞️ I’m looking to collaborate on microservices architectures, functional programing, extreme modularity, light infrastructure
-- 📫 How to reach me : 
+
+- 📫 How to reach me : fabien@karsegard.ch
 
 <!---
 FDT2k/FDT2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
